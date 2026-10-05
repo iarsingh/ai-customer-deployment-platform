@@ -1,1 +1,3 @@
-export default function App(){return <main>Customer deployment</main>}
+export default function App(){
+  return <main><h1>ai-customer-deployment-platform</h1><p>Lab UI. API under /healthz and /v1.</p></main>
+}
